@@ -23,4 +23,5 @@ Elderly people are part of the vulnerable population. If you are over 65 then th
 
 # Tools
 ● Excel- data analysist 
+
 ● Tableau- Visualizations 
