@@ -22,6 +22,6 @@ Used Excel to for data quality to clean, transmform, and integrate data sets.
 Elderly people are part of the vulnerable population. If you are over 65 then the influenza mortality rate will increase. 
 
 # Tools
-● Excel- data analysist 
+● Excel- Data analysist 
 
-● Tableau- Visualizations 
+● Tableau- All visualizations were created in Tableau Public and may be viewed in the attached [Tableau Workbook.] (https://public.tableau.com/app/profile/emily.limeta/viz/Upcomingfluseasonstoryboard/Story1?publish=yes)
