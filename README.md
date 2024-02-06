@@ -26,4 +26,4 @@ Elderly people are part of the vulnerable population. If you are over 65 then th
 
 ● Tableau- All visualizations were created in Tableau Public and may be viewed in the attached [Tableau Workbook](https://public.tableau.com/app/profile/emily.limeta/viz/Upcomingfluseasonstoryboard/Story1?publish=yes).
 
-Loom- Recording of presentation to stakeholders can be viewed in the attached [link](https://www.loom.com/share/2cea48a7028a47b78d604b81bd3410e2?sid=c4ee4baa-7c2d-41cc-81e4-f1952a5b790e).
+Loom- Recording of presentation to stakeholders can be viewed in the attached [link]((https://www.loom.com/share/2cea48a7028a47b78d604b81bd3410e2?sid=c4ee4baa-7c2d-41cc-81e4-f1952a5b790e)).
