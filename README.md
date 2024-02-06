@@ -24,4 +24,4 @@ Elderly people are part of the vulnerable population. If you are over 65 then th
 # Tools
 ● Excel- Data analysist 
 
-● Tableau- All visualizations were created in Tableau Public and may be viewed in the attached [Tableau Workbook.] (https://public.tableau.com/app/profile/emily.limeta/viz/Upcomingfluseasonstoryboard/Story1?publish=yes)
+● Tableau- All visualizations were created in Tableau Public and may be viewed in the attached [Tableau Workbook] (https://public.tableau.com/app/profile/emily.limeta/viz/Upcomingfluseasonstoryboard/Story1?publish=yes).
